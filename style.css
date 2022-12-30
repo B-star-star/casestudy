@@ -1,0 +1,14 @@
+.footer{
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color: navy;
+    line-height: 4;
+    text-align: center;
+  }
+
+ #google_lens{
+    height: 150px;
+    width: 150px;
+  }
